@@ -1,0 +1,11 @@
+.fc-time-grid .fc-slats td {
+    border-bottom: none !important; /* Remove the border between rows */
+    height: 25% !important; /* Adjust the height of each row as needed */
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+  
+  .fc-time-grid .fc-slats .fc-time {
+    margin: 0 !important; /* Remove any default margin */
+  }
